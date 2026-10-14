@@ -1,0 +1,1312 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.9360 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 2026 Mar 29 21:09:26
+Running folder C:\Users\rovik\AppData\Roaming\.tlauncher\starter
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 11 10.0, Java 21.0.9, jvm bit x64, 32635 MB RAM
+java path=C:\Users\rovik\AppData\Roaming\.tlauncher\starter\jre_default\jre-21.0.91-windows-x64\bin\javaw.exe
+AMD Ryzen 5 5600G with Radeon Graphics
+-------------------------------------------------------
+Selected locale: ru
+Locale az doesn't contain key explorer.details.dir
+Locale az doesn't contain key statistics.settings.title
+Locale az doesn't contain key explorer.type.image
+Locale az doesn't contain key modpack.total_download
+Locale az doesn't contain key not.found
+Locale az doesn't contain key explorer.button.up
+Locale az doesn't contain key modpack.table.dependency.button
+Locale az doesn't contain key review.chooser.warning.maxFile.title
+Locale az doesn't contain key lot.games.category.number.casual
+Locale az doesn't contain key modpack.multiplayer
+Locale az doesn't contain key popup.copy
+Locale az doesn't contain key alert.start.message
+Locale az doesn't contain key explorer.input.foldername
+Locale az doesn't contain key modpack.popup.delete
+Locale az doesn't contain key modpack.creation
+Locale az doesn't contain key explorer.error.choose.file
+Locale az doesn't contain key modpack.config.back.modpack.box
+Locale az doesn't contain key launcher.update.message.optional
+Locale az doesn't contain key modpack.added.request.limit
+Locale az doesn't contain key modpack.technology_energy
+Locale az doesn't contain key modpack.survival
+Locale az doesn't contain key optifine.not.found
+Locale az doesn't contain key console.pastebin
+Locale az doesn't contain key explorer.error.newfolder
+Locale az doesn't contain key lot.games.release.date
+Locale az doesn't contain key browser.hyperlink.popup.show
+Locale az doesn't contain key settings.information.contacting
+Locale az doesn't contain key lot.games.requirements
+Locale az doesn't contain key account.premium.not.available
+Locale az doesn't contain key lot.games.description
+Locale az doesn't contain key modpack.description.date
+Locale az doesn't contain key lot.games.learn
+Locale az doesn't contain key modpack.config.system.directory.warning.message
+Locale az doesn't contain key console.pastebin.sent.title
+Locale az doesn't contain key modpack.config.skin.install.message
+Locale az doesn't contain key lot.games.category.number.massively.multiplayer
+Locale az doesn't contain key modpack.request.update.title
+Locale az doesn't contain key modpack.sixteen_x
+Locale az doesn't contain key launcher.update.title
+Locale az doesn't contain key lot.games.price.to
+Locale az doesn't contain key log.form.send.no
+Locale az doesn't contain key modpack.table.dependency.number
+Locale az doesn't contain key explorer.button.update
+Locale az doesn't contain key modpack.backup.button.do
+Locale az doesn't contain key modpack.comment.max.branch
+Locale az doesn't contain key console.clear.popup
+Locale az doesn't contain key console.save.popup
+Locale az doesn't contain key modpack.world_ores_resources
+Locale az doesn't contain key lot.games.genres
+Locale az doesn't contain key menu.copy.done
+Locale az doesn't contain key folder.error
+Locale az doesn't contain key launcher.error.internet
+Locale az doesn't contain key boot.loading
+Locale az doesn't contain key ui.error.openfolder
+Locale az doesn't contain key review.description
+Locale az doesn't contain key explorer.input.type
+Locale az doesn't contain key modpack.comment.leave
+Locale az doesn't contain key explorer.backup.file.chosen
+Locale az doesn't contain key log.support
+Locale az doesn't contain key server.error.code
+Locale az doesn't contain key lot.games.category.number.indie
+Locale az doesn't contain key explorer.title.image
+Locale az doesn't contain key menu.favorite
+Locale az doesn't contain key modpack.quests
+Locale az doesn't contain key modpack.complete.review.map
+Locale az doesn't contain key review.chooser.warning.incorrectFile
+Locale az doesn't contain key alert.reset.process.block
+Locale az doesn't contain key modpack.addons_tinkers_construct
+Locale az doesn't contain key modpack.recipes
+Locale az doesn't contain key modpack.filter.label
+Locale az doesn't contain key modpack.backup.message.info
+Locale az doesn't contain key modpack.remove.button
+Locale az doesn't contain key launcher.update.updater.button
+Locale az doesn't contain key modpack.map_information
+Locale az doesn't contain key explorer.button.home.tip
+Locale az doesn't contain key modpack.skyblock
+Locale az doesn't contain key modpack.parkour
+Locale az doesn't contain key modpack.opening.button
+Locale az doesn't contain key settings.servers.analytics.delete
+Locale az doesn't contain key lot.games.category.number.open.world
+Locale az doesn't contain key modpack.popular
+Locale az doesn't contain key modpack.backup.files.error
+Locale az doesn't contain key settings.minecraft.lang.label
+Locale az doesn't contain key explorer.error.rename
+Locale az doesn't contain key directory.warning.text
+Locale az doesn't contain key lot.games.category.number.genre
+Locale az doesn't contain key lot.games.category.number.family.sharing
+Locale az doesn't contain key lot.games.platform
+Locale az doesn't contain key lot.games.category.number.rpg
+Locale az doesn't contain key modpack.config.memory.box
+Locale az doesn't contain key modpack.select.modpack.title
+Locale az doesn't contain key browser.hyperlink.create.error.title
+Locale az doesn't contain key modpack.crafttweaker
+Locale az doesn't contain key error.title
+Locale az doesn't contain key link.error
+Locale az doesn't contain key explorer.button.update.tip
+Locale az doesn't contain key ui.cancel
+Locale az doesn't contain key modpack.world_gen
+Locale az doesn't contain key modpack.backup.all.elements.shaderpack
+Locale az doesn't contain key lot.games.category.number.simulation
+Locale az doesn't contain key lot.games.disk
+Locale az doesn't contain key review.message.fill
+Locale az doesn't contain key modpack.search.textfield.resourcepack
+Locale az doesn't contain key server.page.title
+Locale az doesn't contain key explorer.button.newfolder.name
+Locale az doesn't contain key loginform.button.log.folder
+Locale az doesn't contain key modpack.game_map
+Locale az doesn't contain key modpack.backup.modpack.box
+Locale az doesn't contain key modpack.next.update
+Locale az doesn't contain key autoupdater.preparing
+Locale az doesn't contain key modpack.animated
+Locale az doesn't contain key modpack.lucky_blocks
+Locale az doesn't contain key modpack.install.handle.warning
+Locale az doesn't contain key in.detail
+Locale az doesn't contain key export.old.favorite.elements
+Locale az doesn't contain key modpack.criteria.not.found.map
+Locale az doesn't contain key modpack.backup.all.elements.map
+Locale az doesn't contain key modpack.applied_energistics_2
+Locale az doesn't contain key modpack.map_based
+Locale az doesn't contain key modpack.criteria.not.found.shaderpack
+Locale az doesn't contain key modpack.config.skin.install.message.title
+Locale az doesn't contain key ui.go.no.matter
+Locale az doesn't contain key auth.helper.help.account
+Locale az doesn't contain key lot.games.buy
+Locale az doesn't contain key modpack.resave.exception.title
+Locale az doesn't contain key crash.gamepad.install
+Locale az doesn't contain key bug.java.ssl.old.jvm
+Locale az doesn't contain key lot.games.category.number.language
+Locale az doesn't contain key modpack.addons_thermalexpansion
+Locale az doesn't contain key modpack.modded_world
+Locale az doesn't contain key explorer.view.list
+Locale az doesn't contain key modpack.ftb_official_pack
+Locale az doesn't contain key modpack.hardcore_questing_mode
+Locale az doesn't contain key launcher.error.disk.size
+Locale az doesn't contain key modpack.miscellaneous
+Locale az doesn't contain key modpack.table.empty.dependency
+Locale az doesn't contain key explorer.button.view
+Locale az doesn't contain key lot.games.category.number.feature
+Locale az doesn't contain key updater.downloaded.title
+Locale az doesn't contain key explorer.details.file
+Locale az doesn't contain key modpack.backup.down.button.restore
+Locale az doesn't contain key settings.payment-currency.EUR
+Locale az doesn't contain key lot.games.category.number.pvp
+Locale az doesn't contain key explorer.title
+Locale az doesn't contain key modpack.technology
+Locale az doesn't contain key error.jfxwebkit.title
+Locale az doesn't contain key explorer.button.cancel.tip
+Locale az doesn't contain key lot.games.category.number.action
+Locale az doesn't contain key token.not.valid
+Locale az doesn't contain key modpack.response
+Locale az doesn't contain key review.message.vk.mail
+Locale az doesn't contain key modpack.install.handle.map
+Locale az doesn't contain key modpack.left.fast.install
+Locale az doesn't contain key settings.nickname.ignore
+Locale az doesn't contain key notifier.found.question
+Locale az doesn't contain key updater.notice
+Locale az doesn't contain key auth.error.log.xbox.prifile
+Locale az doesn't contain key modpack.config.recommended
+Locale az doesn't contain key browser.authentication.advice.microsoft
+Locale az doesn't contain key modpack.comment.deleted
+Locale az doesn't contain key alert.error.title
+Locale az doesn't contain key modpack.configuration
+Locale az doesn't contain key alert.error.send.log.too.much
+Locale az doesn't contain key review.label.mail
+Locale az doesn't contain key modpack.guidebook
+Locale az doesn't contain key log.support.notify
+Locale az doesn't contain key modpack.world_biomes
+Locale az doesn't contain key lot.games.sort.date
+Locale az doesn't contain key modpack.config.system.label
+Locale az doesn't contain key modpack.backup.init.title
+Locale az doesn't contain key adult.no
+Locale az doesn't contain key discord.page.main
+Locale az doesn't contain key explorer.button.help.tip
+Locale az doesn't contain key explorer.button.view.tip
+Locale az doesn't contain key modpack.modern
+Locale az doesn't contain key modpack.complete.dependency.button
+Locale az doesn't contain key modpack.hardcore
+Locale az doesn't contain key modpack.backup.all.elements.resourcepack
+Locale az doesn't contain key explorer.title.save
+Locale az doesn't contain key modpack.mod_support
+Locale az doesn't contain key modpack.select.modpack
+Locale az doesn't contain key modpack.creation.forge
+Locale az doesn't contain key auth.error.log.not
+Locale az doesn't contain key modpack.lag_less
+Locale az doesn't contain key lot.games.faq
+Locale az doesn't contain key modpack.creation.input.name
+Locale az doesn't contain key modpack.filter.version.denied
+Locale az doesn't contain key settings.minecraft.lang.box
+Locale az doesn't contain key link.error.title
+Locale az doesn't contain key review.button.send
+Locale az doesn't contain key modpack.left.element.remove.question
+Locale az doesn't contain key skins.not.found.title
+Locale az doesn't contain key browser.hyperlink.create.error
+Locale az doesn't contain key modpack.creation.version.game
+Locale az doesn't contain key lot.games.developer
+Locale az doesn't contain key lot.games.show
+Locale az doesn't contain key modpack.added.request.message
+Locale az doesn't contain key explorer.button.cancel
+Locale az doesn't contain key account.current
+Locale az doesn't contain key launcher.error.support
+Locale az doesn't contain key sodium.not.found.title
+Locale az doesn't contain key ui.error.openfolder.title
+Locale az doesn't contain key modpack.rename.exception
+Locale az doesn't contain key explorer.view.list.name
+Locale az doesn't contain key lot.games.exit.fullscreen
+Locale az doesn't contain key auth.helper.help.button
+Locale az doesn't contain key modpack.selected
+Locale az doesn't contain key modpack.sort.label
+Locale az doesn't contain key lot.games.reset
+Locale az doesn't contain key send.file
+Locale az doesn't contain key launcher.error.download.x32.error
+Locale az doesn't contain key modpack.selected.so.much
+Locale az doesn't contain key ad.server.openwith.current
+Locale az doesn't contain key modpack.local.box.default
+Locale az doesn't contain key autoupdater.downloading
+Locale az doesn't contain key modpack.remote.not.found
+Locale az doesn't contain key alert.error.send.log.unsuccess
+Locale az doesn't contain key explorer.browse
+Locale az doesn't contain key browser.hyperlink.popup.open
+Locale az doesn't contain key modpack.create.button
+Locale az doesn't contain key block.doctor.web
+Locale az doesn't contain key launcher.error.file.not.access
+Locale az doesn't contain key notifier.failed.title
+Locale az doesn't contain key modpack.internet.update.title
+Locale az doesn't contain key explorer.button.newfolder
+Locale az doesn't contain key updater.save-error.title
+Locale az doesn't contain key modpack.map.same.folder
+Locale az doesn't contain key review.chooser.warning.limitMaxSize
+Locale az doesn't contain key modpack.send.success.title
+Locale az doesn't contain key modpack.table.dependency.image
+Locale az doesn't contain key explorer.error.rename-exists
+Locale az doesn't contain key review.box.typeReviewBox
+Locale az doesn't contain key modpack.backup.info.label.0
+Locale az doesn't contain key review.button.close
+Locale az doesn't contain key modpack.addons_industrialcraft
+Locale az doesn't contain key modpack.left.empty.mod.label.shaderpack
+Locale az doesn't contain key updater.save-error
+Locale az doesn't contain key modpack.progression
+Locale az doesn't contain key modpack.config.memory.message
+Locale az doesn't contain key modpack.element.button.apply
+Locale az doesn't contain key ui.error.openfile
+Locale az doesn't contain key modpack.traditional
+Locale az doesn't contain key export.old.favorite.elements.title
+Locale az doesn't contain key modpack.left.empty.mod.label.mod
+Locale az doesn't contain key modpack.version.forge
+Locale az doesn't contain key modpack.low_end
+Locale az doesn't contain key modpack.description.download
+Locale az doesn't contain key popup.paste
+Locale az doesn't contain key lot.games.sort.search.name
+Locale az doesn't contain key modpack.sci_fi
+Locale az doesn't contain key auth.helper.help.username
+Locale az doesn't contain key console.kill
+Locale az doesn't contain key review.window.title
+Locale az doesn't contain key modpack.favorite
+Locale az doesn't contain key modpack.addons_buildcraft
+Locale az doesn't contain key version.latest.custom
+Locale az doesn't contain key notifier.failed
+Locale az doesn't contain key modpack.mc_addons
+Locale az doesn't contain key ad.server.error
+Locale az doesn't contain key system.32x.not.proper.title
+Locale az doesn't contain key lot.games.category.number.cross.platform.multiplayer
+Locale az doesn't contain key menu.favorite.done
+Locale az doesn't contain key directory.warning.title
+Locale az doesn't contain key explorer.button.home
+Locale az doesn't contain key crash.nvoglv64
+Locale az doesn't contain key modpack.added.request.limit.title
+Locale az doesn't contain key modpack.config.optimizationfps.box
+Locale az doesn't contain key error.jfxwebkit.message
+Locale az doesn't contain key modpack.server_utility
+Locale az doesn't contain key ad.server.openwith
+Locale az doesn't contain key server.page.online
+Locale az doesn't contain key explorer.view.details.name
+Locale az doesn't contain key best.games
+Locale az doesn't contain key modpack.customization
+Locale az doesn't contain key modpack.search.text
+Locale az doesn't contain key log.form.title
+Locale az doesn't contain key modpack.backup.all.elements.mod
+Locale az doesn't contain key log.form.send
+Locale az doesn't contain key modpack.medieval
+Locale az doesn't contain key console.save.error
+Locale az doesn't contain key modpack.resave.exception
+Locale az doesn't contain key modpack.table.empty.mod
+Locale az doesn't contain key alert.error.send.log.success
+Locale az doesn't contain key modpack.world_dimensions
+Locale az doesn't contain key modpack.config.high.level
+Locale az doesn't contain key menu.chooseVersion
+Locale az doesn't contain key modpack.technology_item_fluid_energy_transport
+Locale az doesn't contain key modpack.rename.exception.title
+Locale az doesn't contain key lot.games.sort.search.description
+Locale az doesn't contain key modpack.version.quilt
+Locale az doesn't contain key modpack.right.panel.required.tl.account.title
+Locale az doesn't contain key modpack.install.files.installed.title
+Locale az doesn't contain key explorer.button.help
+Locale az doesn't contain key explorer.error.choose.file.title
+Locale az doesn't contain key review.chooser.warning.limitMaxSize.title
+Locale az doesn't contain key lot.games.category.number.in.app.purchases
+Locale az doesn't contain key modpack.technology_player_transport
+Locale az doesn't contain key console.pastebin.sent
+Locale az doesn't contain key adult
+Locale az doesn't contain key memory.notification.message
+Locale az doesn't contain key ui.error.openfile.title
+Locale az doesn't contain key browser.authentication.success
+Locale az doesn't contain key modpack.install.handle.mod
+Locale az doesn't contain key modpack.explorer.files
+Locale az doesn't contain key modpack.button.map
+Locale az doesn't contain key modpack.comment.show.more
+Locale az doesn't contain key modpack.small_light
+Locale az doesn't contain key modpack.backup.button.backup
+Locale az doesn't contain key lot.games.net
+Locale az doesn't contain key modpack.config.optimization.box.fabric
+Locale az doesn't contain key lot.games.oc
+Locale az doesn't contain key menu.version
+Locale az doesn't contain key modpack.sixty_four_x
+Locale az doesn't contain key modpack.table.empty.map
+Locale az doesn't contain key autoupdater.requesting
+Locale az doesn't contain key games.catalog
+Locale az doesn't contain key lot.games.cpu
+Locale az doesn't contain key menu.start
+Locale az doesn't contain key modpack.backup.button.restore
+Locale az doesn't contain key launcher.warning.inappropriate.modpack.version
+Locale az doesn't contain key crash.file.not.access
+Locale az doesn't contain key review.message.sendFile
+Locale az doesn't contain key explorer.button.open-dir
+Locale az doesn't contain key modpack.million
+Locale az doesn't contain key browser.hyperlink.popup.show.alert
+Locale az doesn't contain key modpack.search.textfield.mod
+Locale az doesn't contain key explorer.lookin
+Locale az doesn't contain key more.details
+Locale az doesn't contain key modpack.addons_thaumcraft
+Locale az doesn't contain key lot.games.find.all
+Locale az doesn't contain key modpack.filters
+Locale az doesn't contain key browser.authentication.description
+Locale az doesn't contain key alert.error.font.problem
+Locale az doesn't contain key modpack.addons_forestry
+Locale az doesn't contain key modpack.all.elements
+Locale az doesn't contain key lot.games.category.number.single.player
+Locale az doesn't contain key lot.games.category.number.sales.leader
+Locale az doesn't contain key modpack.complete.review.button
+Locale az doesn't contain key modpack.thirty_two_x
+Locale az doesn't contain key explorer.extension.format
+Locale az doesn't contain key console.close.cancel
+Locale az doesn't contain key console.save.exists
+Locale az doesn't contain key modpack.config.skin.use
+Locale az doesn't contain key modpack.try.later
+Locale az doesn't contain key server.page.back
+Locale az doesn't contain key notifier.found.title
+Locale az doesn't contain key modpack.button.modpack
+Locale az doesn't contain key modpack.right.panel.required.tl.account
+Locale az doesn't contain key modpack.element.old.question
+Locale az doesn't contain key skins.not.found
+Locale az doesn't contain key modpack.exploration
+Locale az doesn't contain key modpack.comment.badword
+Locale az doesn't contain key browser.authentication.link
+Locale az doesn't contain key modpack.backup.files.do
+Locale az doesn't contain key explorer.button.save.tip
+Locale az doesn't contain key java.version.32x.not.proper.title
+Locale az doesn't contain key settings.information.safety
+Locale az doesn't contain key modpack.photo_realistic
+Locale az doesn't contain key skins.tlauncher
+Locale az doesn't contain key modpack.table.pack.element.version
+Locale az doesn't contain key modpack.creation.name
+Locale az doesn't contain key modpack.table.dependency.name
+Locale az doesn't contain key account.premium.chita
+Locale az doesn't contain key menu.copy
+Locale az doesn't contain key modpack.combat_pvp
+Locale az doesn't contain key lot.games.sort.popular_views
+Locale az doesn't contain key modpack.button.resourcepack
+Locale az doesn't contain key explorer.button.open.tip
+Locale az doesn't contain key modpack.adventure_rpg
+Locale az doesn't contain key ui.error.openlink
+Locale az doesn't contain key lot.games.category.number.strategy
+Locale az doesn't contain key popup.copyall
+Locale az doesn't contain key lot.games.category.number.free.to.play
+Locale az doesn't contain key explorer.extension.jpg
+Locale az doesn't contain key ui.yes
+Locale az doesn't contain key explorer.button.open
+Locale az doesn't contain key settings.java.not.proper.char
+Locale az doesn't contain key modpack.version.any
+Locale az doesn't contain key modpack.error.resolver.version
+Locale az doesn't contain key modpack.install.handle.title
+Locale az doesn't contain key lot.games.category.number.shooter
+Locale az doesn't contain key lot.games.category.number.controller.support
+Locale az doesn't contain key modpack.config.game.version
+Locale az doesn't contain key modpack.twitch_integration
+Locale az doesn't contain key modpack.internet.update
+Locale az doesn't contain key modpack.complete.review.resource
+Locale az doesn't contain key modpack.puzzle
+Locale az doesn't contain key review.label.wishesDescription
+Locale az doesn't contain key modpack.left.empty.mod.label.resourcepack
+Locale az doesn't contain key settings.payment-currency.USD
+Locale az doesn't contain key popup.cut
+Locale az doesn't contain key explorer.button.newfolder.tip
+Locale az doesn't contain key modpack.remote.not.found.title
+Locale az doesn't contain key modpack.backup.not.found
+Locale az doesn't contain key modpack.scripts
+Locale az doesn't contain key alert.error.linux.javafx
+Locale az doesn't contain key settings.nickname.agree
+Locale az doesn't contain key adult.yes
+Locale az doesn't contain key settings.information.help
+Locale az doesn't contain key settings.information.library
+Locale az doesn't contain key modpack.table.denied.button
+Locale az doesn't contain key lot.games.sort.name
+Locale az doesn't contain key modpack.backup.install.hand
+Locale az doesn't contain key modpack.complete.discussion.button
+Locale az doesn't contain key lot.games.category.number.remote.play.on.tablet
+Locale az doesn't contain key modpack.criteria.not.found.resourcepack
+Locale az doesn't contain key modpack.send.success
+Locale az doesn't contain key modpack.comment.delete
+Locale az doesn't contain key updater.downloaded
+Locale az doesn't contain key modpack.criteria.not.found.modpack
+Locale az doesn't contain key modpack.version.loading
+Locale az doesn't contain key settings.information.developer
+Locale az doesn't contain key launcher.update.later.button
+Locale az doesn't contain key modpack.realistic
+Locale az doesn't contain key modpack.button.shaderpack
+Locale az doesn't contain key updater.access.denied.message
+Locale az doesn't contain key updater.button.download.handle
+Locale az doesn't contain key modpack.five_twelve_x_and_beyond
+Locale az doesn't contain key modpack.library_api
+Locale az doesn't contain key crash.launcher.error.antivirus
+Locale az doesn't contain key modpack.mc_miscellaneous
+Locale az doesn't contain key modpack.install.files.installed
+Locale az doesn't contain key lot.games.video
+Locale az doesn't contain key modpack.update
+Locale az doesn't contain key explorer.context.newfolder
+Locale az doesn't contain key lot.games.sort.total_views
+Locale az doesn't contain key settings.reset.move.dir
+Locale az doesn't contain key log.support.link
+Locale az doesn't contain key modpack.left.empty.mod.label.map
+Locale az doesn't contain key modpack.building_gadgets
+Locale az doesn't contain key console.pastebin.invalid
+Locale az doesn't contain key modpack.version.vanilla
+Locale az doesn't contain key modpack.process.button
+Locale az doesn't contain key settings.launcher.size
+Locale az doesn't contain key explorer.button.details.tip
+Locale az doesn't contain key lot.games.select.categories
+Locale az doesn't contain key browser.hyperlink.popup.show.alert.title
+Locale az doesn't contain key modpack.table.empty.shaderpack
+Locale az doesn't contain key browser.hyperlink.popup.copy
+Locale az doesn't contain key alert.error.message
+Locale az doesn't contain key auth.error.username.not.valid.space
+Locale az doesn't contain key explorer.input.filename
+Locale az doesn't contain key modpack.thousand
+Locale az doesn't contain key memory.notification.title
+Locale az doesn't contain key modpack.one_twenty_eight_x
+Locale az doesn't contain key found.elements
+Locale az doesn't contain key modpack.search.textfield.map
+Locale az doesn't contain key modpack.all
+Locale az doesn't contain key ui.ok
+Locale az doesn't contain key modpack.chita
+Locale az doesn't contain key modpack.config.system.optimization.fps
+Locale az doesn't contain key console
+Locale az doesn't contain key modpack.button.mod
+Locale az doesn't contain key lot.games.category.number.multiplayer
+Locale az doesn't contain key modpack.creation.save
+Locale az doesn't contain key modpack.table.pack.element.name
+Locale az doesn't contain key modpack.error.send.unsuccess.title
+Locale az doesn't contain key auth.helper.help.password
+Locale az doesn't contain key launcher.update.message.mandatory
+Locale az doesn't contain key lot.games.offer.end
+Locale az doesn't contain key ui.no
+Locale az doesn't contain key lot.games.category.number.massively
+Locale az doesn't contain key statistics.settings.checkbox.name
+Locale az doesn't contain key log.email.error.description
+Locale az doesn't contain key console.pastebin.failed
+Locale az doesn't contain key log.email.error.issue
+Locale az doesn't contain key review.message.description
+Locale az doesn't contain key modpack.cosmetic
+Locale az doesn't contain key modpack.version.fabric
+Locale az doesn't contain key explorer.context.refresh
+Locale az doesn't contain key not.found.desition
+Locale az doesn't contain key modpack.search.without.modpack
+Locale az doesn't contain key browser.authentication.error
+Locale az doesn't contain key launcher.error.servers
+Locale az doesn't contain key folder.error.title
+Locale az doesn't contain key modpack.version.neoForge
+Locale az doesn't contain key lot.games.found.count
+Locale az doesn't contain key console.pastebin.failed.title
+Locale az doesn't contain key browser.authentication.free.port.description
+Locale az doesn't contain key lot.games.category.number.co.op
+Locale az doesn't contain key settings.launcher.size.description
+Locale az doesn't contain key autoupdater.opening
+Locale az doesn't contain key adult.title
+Locale az doesn't contain key tlmods.open.link
+Locale az doesn't contain key settings.payment-currency.label
+Locale az doesn't contain key modpack.magic
+Locale az doesn't contain key lot.games.free
+Locale az doesn't contain key modpack.complete.picture.button
+Locale az doesn't contain key modpack.config.memory.message.title
+Locale az doesn't contain key modpack.config.optimizationfpsbox
+Locale az doesn't contain key settings.payment-currency.RUB
+Locale az doesn't contain key java.version.32x.not.proper
+Locale az doesn't contain key modpack.complete.next.button
+Locale az doesn't contain key modpack.install.process
+Locale az doesn't contain key modpack.table.pack.element.author
+Locale az doesn't contain key modpack.complete.picture.empty
+Locale az doesn't contain key explorer.button.list.tip
+Locale az doesn't contain key modpack.open.folder
+Locale az doesn't contain key modpack.mc_food
+Locale az doesn't contain key review.message.email.invalid
+Locale az doesn't contain key skins.official
+Locale az doesn't contain key modpack.complete.back.button
+Locale az doesn't contain key modpack.blood_magic
+Locale az doesn't contain key modpack.adventure_and_rpg
+Locale az doesn't contain key review.chooser.addFile
+Locale az doesn't contain key alert.error.request
+Locale az doesn't contain key explorer.button.up.tip
+Locale az doesn't contain key optifine.not.found.title
+Locale az doesn't contain key button.update.update
+Locale az doesn't contain key autoupdater.buttons.hide
+Locale az doesn't contain key lot.games.category.number.adventure
+Locale az doesn't contain key lot.games.price
+Locale az doesn't contain key lot.games.category.number.number.of.players
+Locale az doesn't contain key discord.page.mods
+Locale az doesn't contain key review.label.wishesTitle
+Locale az doesn't contain key modpack.table.version.maturiry
+Locale az doesn't contain key review.chooser.warning.maxFile
+Locale az doesn't contain key auth.helper.help.exit
+Locale az doesn't contain key lot.games.category.number.playstation.controllers
+Locale az doesn't contain key lot.games.category.number.xbox.controller.support
+check internet connection https://rescl.tlauncher.org/check.bin timeout 1500 ms
+check internet connection https://securelogger.net/check.bin timeout 1500 ms
+Locale az doesn't contain key browser.authentication
+check internet connection https://mps.tlauncher.org/api/check.bin timeout 1500 ms
+Locale az doesn't contain key modpack.backup.settings
+check internet connection https://res.tlauncher.ru/check.bin timeout 1500 ms
+Locale az doesn't contain key updater.update.now
+check internet connection https://securelogger.top/check.bin timeout 1500 ms
+Locale az doesn't contain key settings.select.program
+Locale az doesn't contain key modpack.not.found.elements
+Locale az doesn't contain key modpack.backup.title
+check internet connection https://ruzone.securelogger.top/check.bin timeout 1500 ms
+Locale az doesn't contain key launcher.warning.inappropriate.modpack.version.title
+Locale az doesn't contain key modpack.psychedelic
+check internet connection https://mps.tlauncher.ru/api/check.bin timeout 1500 ms
+Locale az doesn't contain key explorer.button.save
+check internet connection https://mps.fastrepo.org/api/check.bin timeout 1500 ms
+Locale az doesn't contain key modpack.right.panel.select.account.tl
+check internet connection https://res.tlauncher.org/check.bin timeout 1500 ms
+Locale az doesn't contain key modpack.install.handle.shaderpack
+Locale az doesn't contain key alert.error.send.log.title
+Locale az doesn't contain key review.button.addFile
+Locale az doesn't contain key modpack.adventure
+Locale az doesn't contain key modpack.table.empty.resourcepack
+Locale az doesn't contain key modpack.search.textfield.shaderpack
+Locale az doesn't contain key modpack.complete.old.button
+Locale az doesn't contain key lot.games.category.number.action.rpg
+Locale az doesn't contain key modpack.backup.init
+Locale az doesn't contain key console.pastebin.invalid.title
+Locale az doesn't contain key modpack.extra_large
+Locale az doesn't contain key launcher.update.no.space
+Locale az doesn't contain key modpack.error.send.unsuccess
+Locale az doesn't contain key explorer.extension.jpeg
+Locale az doesn't contain key modpack.creation.modpack
+Locale az doesn't contain key modpack.config.system.backModpack
+Locale az doesn't contain key modpack.table.dependency.type
+Locale az doesn't contain key modpack.local.box.default.list
+Locale az doesn't contain key review.label.titleReview
+Locale az doesn't contain key modpack.complete.site.button
+Locale az doesn't contain key modpack.config.optimization.box
+Locale az doesn't contain key explorer.error.rename.title
+Locale az doesn't contain key modpack.link.file
+Locale az doesn't contain key file.not.exist
+Locale az doesn't contain key modpack.complete.author
+Locale az doesn't contain key lot.games.category.number.dualshock.controller.support
+Locale az doesn't contain key settings.discord.off
+Locale az doesn't contain key modpack.comment.creation
+Locale az doesn't contain key explorer.button.details
+Locale az doesn't contain key ui.error.openlink.title
+Locale az doesn't contain key minecraft.playing
+Locale az doesn't contain key explorer.extension.all
+Locale az doesn't contain key sodium.not.found
+Locale az doesn't contain key alert.block.ip
+Locale az doesn't contain key modpack.complete.review.mod
+Locale az doesn't contain key check.email.input
+Locale az doesn't contain key autoupdater.buttons.skip
+Locale az doesn't contain key explorer.button.open-dir.tip
+Locale az doesn't contain key modpack.complete.versions.button
+Locale az doesn't contain key modpack.element.collapse
+Locale az doesn't contain key modpack.armor_weapons_tools
+Locale az doesn't contain key settings.information.turikhay
+Locale az doesn't contain key modpack.name
+Locale az doesn't contain key modpack.config.backModpackBox
+Locale az doesn't contain key modpack.config.editor.delete
+Locale az doesn't contain key lot.games.gb
+Locale az doesn't contain key alert.error.not.run
+Locale az doesn't contain key modpack.steampunk
+Locale az doesn't contain key modpack.install.handle.resourcepack
+Locale az doesn't contain key modpack.table.pack.element.operation
+Locale az doesn't contain key modpack.added.request.message1
+Locale az doesn't contain key modpack.tech
+Locale az doesn't contain key modpack.version
+Locale az doesn't contain key modpack.technology_farming
+Locale az doesn't contain key modpack.technology_processing
+Locale az doesn't contain key modpack.world_mobs
+Locale az doesn't contain key modpack.config.title
+Locale az doesn't contain key modpack.mini_game
+Locale az doesn't contain key check.email.name
+Locale az doesn't contain key system.32x.not.proper
+Locale az doesn't contain key modpack.criteria.not.found.mod
+Locale az doesn't contain key lot.games.publisher
+Locale az doesn't contain key popup.selectall
+Locale az doesn't contain key explorer.view.details
+Locale az doesn't contain key search.result
+Locale az doesn't contain key lot.games.price.from
+Locale az doesn't contain key modpack.two_fifty_six_x
+Locale az doesn't contain key explorer.extension.png
+Locale az doesn't contain key modpack.popup.open
+Locale az doesn't contain key modpack.added.request
+Locale az doesn't contain key lot.games.ram
+Locale az doesn't contain key modpack.fabric
+Locale az doesn't contain key modpack.config.memory.title
+Locale az doesn't contain key modpack.redstone
+Locale az doesn't contain key modpack.shaderpacks
+Locale az doesn't contain key modpack.map.same.folder.title
+Locale az doesn't contain key lot.games.offer
+Locale az doesn't contain key modpack.storage
+Locale az doesn't contain key modpack.config.system.back.modpack
+Locale az doesn't contain key explorer.error.newfolder-nopath
+Locale az doesn't contain key modpack.world_structures
+Locale az doesn't contain key explorer.button.list
+Locale az doesn't contain key modpack.technology_genetics
+Locale az doesn't contain key explorer.title.open
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+passed res.tlauncher.ru within 382 ms
+[Browser] Loading resources...
+passed ruzone.securelogger.top within 420 ms
+passed res.tlauncher.org within 431 ms
+passed rescl.tlauncher.org within 435 ms
+passed mps.tlauncher.org within 461 ms
+passed mps.tlauncher.ru within 477 ms
+[Browser] Cleaning up after loading:
+Starting garbage collector: 74 / 281 MB
+Garbage collector completed: 31 / 107 MB
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+passed securelogger.net within 631 ms
+do head request -> https://repo.tlauncher.org/update/downloads/configs_v1/pages/index_ru.html RequestMetadata(lastModified=Sat, 28 Mar 2026 00:06:27 GMT, eTag=69c71b83-2fe11, sha1=45656b6df0444fd477d8a32b407ce322736cff16, lastAccessAt=1774697746849) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs_v1\pages\index_ru.html
+do get request https://repo.tlauncher.org/update/downloads/configs_v1/pages/index_ru.html, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs_v1\pages\index_ru.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\rovik\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\rovik\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+profiles is saved successfully
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+[Loading] LOADING_WINDOW
+[Browser] Initializing...
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+do head request -> https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json RequestMetadata(lastModified=Fri, 06 Feb 2026 12:18:10 GMT, eTag=6985dc02-58b3f, sha1=bffc8464727aca0d1f7f0cee8f4eccd05b95818a, lastAccessAt=1774697747012) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\libraries\org\tlauncher\authlib\libraries-1.7.json
+do head request -> https://repo.tlauncher.org/update/downloads/configs/inner_servers-1.2.json RequestMetadata(lastModified=Fri, 27 Mar 2026 19:44:01 GMT, eTag=69c6de01-1c1e, sha1=6faef1e6a881b8994302b670a38ff7adbe07cbdd, lastAccessAt=1774697747168) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\inner_servers-1.2.json
+do get request https://repo.tlauncher.org/update/downloads/configs/inner_servers-1.2.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\configs\inner_servers-1.2.json
+[JFXStartPageLoader]  start load page: file:///C:/Users/rovik/AppData/Roaming/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs_v1/pages/index_ru.html
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+check internet connection https://mps.fastrepo.org/api/check.bin timeout 4500 ms
+check internet connection https://securelogger.top/check.bin timeout 4500 ms
+[BrowserSimplePanel]	 constructor
+[BrowserSimplePanel]	 constructor
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+Started! (4213 ms.)
+[Loading] SUCCESS
+[TLauncher] starter can be closed
+[TLauncher] show tlauncher!!!
+Searching for IPC: \\?\pipe\discord-ipc-0
+Sent packet: Pkt:HANDSHAKE{"v":1,"nonce":"3e1545e7-66db-4451-b692-89435b76130d","client_id":"1140558605771350016"}
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/additional_assets-1.1.json RequestMetadata(lastModified=Mon, 22 Dec 2025 19:39:29 GMT, eTag=69499e71-2fb63, sha1=ce6a8f0ee2eda2df06f02778dc16fddb71bb30e3, lastAccessAt=1774697750731) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\additional_assets-1.1.json
+skip request to server https://repo.fastrepo.org/
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+skip request to server http://advancedrepository.net/
+Received packet: Pkt:FRAME{"evt":"READY","data":{"v":1,"config":{"environment":"production","api_endpoint":"//discord.com/api","cdn_host":"cdn.discordapp.com"},"user":{"premium_type":0,"global_name":"TheRoviks","bot":false,"avatar_decoration_data":null,"flags":0,"id":"1290395150673121360","avatar":"8d4a1e7e097afaa1d187190cbaad0169","username":"one_plus_zero","discriminator":"0"}},"cmd":"DISPATCH","nonce":null}
+Found a valid client (ANY) with packet: Pkt:FRAME{"evt":"READY","data":{"v":1,"config":{"environment":"production","api_endpoint":"//discord.com/api","cdn_host":"cdn.discordapp.com"},"user":{"premium_type":0,"global_name":"TheRoviks","bot":false,"avatar_decoration_data":null,"flags":0,"id":"1290395150673121360","avatar":"8d4a1e7e097afaa1d187190cbaad0169","username":"one_plus_zero","discriminator":"0"}},"cmd":"DISPATCH","nonce":null}
+Found preferred client: ANY
+Client is now connected and ready!
+Sending RichPresence to discord: {"assets":{"large_image":"fav-icon-512"},"instance":false,"timestamps":{"start":1774807771},"details":"Просматривает главную страницу","secrets":{}}
+Sent packet: Pkt:FRAME{"args":{"activity":{"assets":{"large_image":"fav-icon-512"},"instance":false,"timestamps":{"start":1774807771},"details":"Просматривает главную страницу","secrets":{}},"pid":25936},"cmd":"SET_ACTIVITY","nonce":"54773893-e3d5-468b-8afb-161204b7bd80"}
+Starting IPCClient reading thread!
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/version_manifest.json RequestMetadata(lastModified=Sat, 14 Feb 2026 11:14:25 GMT, eTag=69905911-326c, sha1=270255a173c94ba9e895b661e6675d2b98d98ad6, lastAccessAt=1774697751030) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\skin\versions\version_manifest.json
+do head request -> https://repo.tlauncher.org/update/downloads/versions/new5/version_manifest.json RequestMetadata(lastModified=Fri, 27 Mar 2026 12:40:38 GMT, eTag=69c67ac6-bd2c, sha1=852460583acf83e2c0b680a61c598f94e704aaa2, lastAccessAt=1774697751080) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\downloads\versions\new5\version_manifest.json
+[SkinVersionList] Got in 90 ms
+[ExtraVersionList] Got in 112 ms
+Received packet: Pkt:FRAME{"evt":null,"data":{"metadata":{},"assets":{"large_image":"1142030771398385665"},"timestamps":{"start":1774807771000},"name":"TLauncher","details":"Просматривает главную страницу","type":0,"secrets":{},"application_id":"1140558605771350016","platform":"desktop"},"cmd":"SET_ACTIVITY","nonce":"54773893-e3d5-468b-8afb-161204b7bd80"}
+do head request -> https://launchermeta.mojang.com/mc/game/version_manifest.json RequestMetadata(lastModified=Tue, 24 Mar 2026 16:01:02 GMT, eTag=0x8DE89BE8C42618B, sha1=59b665bfc0cb4ec65b6f286bd4b79ee76a94ed46, lastAccessAt=1774697751287) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_launchermeta.mojang.com\mc\game\version_manifest.json
+[OfficialVersionList] Got in 253 ms
+[VersionManager] Versions has been refreshed (482 ms)
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+skip request to server https://repo.fastrepo.org/
+skip request to server http://advancedrepository.net/
+run server on  37842
+do head request -> https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json RequestMetadata(lastModified=Sat, 28 Mar 2026 00:06:27 GMT, eTag=69c71b83-1bb6, sha1=9e780de538ddb1f419011236ae1c88b695b7bc73, lastAccessAt=1774697751487) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\lch\additional_hot_servers-1.0.json
+do get request https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\lch\additional_hot_servers-1.0.json
+do head request -> https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json RequestMetadata(lastModified=Sat, 28 Mar 2026 00:06:27 GMT, eTag=69c71b83-4f35, sha1=a7ab3029e1741b9ccfd56ab1549371b13b9d82ed, lastAccessAt=1774697751497) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\lch\servers\hot_servers-1.0.json
+do get request https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_repo.tlauncher.org\update\lch\servers\hot_servers-1.0.json
+failed mps.fastrepo.org within 8018 ms
+failed securelogger.top within 8018 ms
+[LoginForm] run process:
+AccountComboBox.validte pre game launch username Account{skinType=TLAUNCHER, displayName=TheRoviks, userid=6895866703474b169fdfeebb386bd219, uuid=6895866703474b169fdfeebb386bd219, username=TheRoviks} FREE
+onAuthPassed
+saved account Account{skinType=TLAUNCHER, displayName=TheRoviks, userid=6895866703474b169fdfeebb386bd219, uuid=6895866703474b169fdfeebb386bd219, username=TheRoviks}
+profiles is saved successfully
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.936
+[Launcher] Collecting info...
+before clearLibrary C:\Users\rovik\AppData\Roaming\.minecraft\mods\faster-placement-1.0.0.jar
+erorr
+java.nio.file.NoSuchFileException: C:\Users\rovik\AppData\Roaming\.minecraft\mods\tl_skin_cape_fabric_1.21.11-1.38.jar
+at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:273)
+at java.base/sun.nio.fs.AbstractFileSystemProvider.delete(AbstractFileSystemProvider.java:104)
+at java.base/java.nio.file.Files.delete(Files.java:1152)
+at org.tlauncher.tlauncher.managers.TLauncherManager.cleanMods(TLauncherManager.java:411)
+at org.tlauncher.tlauncher.managers.TLauncherManager.cleanMods(TLauncherManager.java:398)
+at org.tlauncher.tlauncher.managers.TLauncherManager.onMinecraftPrepare(TLauncherManager.java:279)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.collectInfo(MinecraftLauncher.java:387)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:285)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:542)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:239)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:463)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:456)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:96)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:41)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:64)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:120)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:395)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:236)
+
+written:  []
+after clearLibrary C:\Users\rovik\AppData\Roaming\.minecraft\mods\faster-placement-1.0.0.jar
+[Launcher] Force update: false
+[Launcher] Selected version: Fabric 1.21.11
+[Launcher] Selected account: Account{skinType=TLAUNCHER, displayName=TheRoviks, userid=6895866703474b169fdfeebb386bd219, uuid=6895866703474b169fdfeebb386bd219, username=TheRoviks}
+[Launcher] Version sync info: VersionSyncInfo{id='Fabric 1.21.11',
+local=CompleteVersion{id='Fabric 1.21.11', time=Tue Dec 09 10:13:30 MSK 2025, release=Tue Dec 09 12:23:30 MSK 2025, type=modified, class=net.fabricmc.loader.impl.launch.knot.KnotClient, minimumVersion=21, assets='29', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@5696ef6d, libraries=[Library{name='org.ow2.asm:asm:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-analysis:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-commons:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-tree:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-util:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.fabricmc:intermediary:1.21.11', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.fabricmc:fabric-loader:0.18.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='at.yawk.lz4:lz4-java:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.azure:azure-json:1.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.github.oshi:oshi-core:6.9.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.13.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:failureaccess:1.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:33.5.0-jre', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:77.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.microsoft.azure:msal4j:1.23.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:7.0.61', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:blocklist:1.0.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.3.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:9.0.19', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:logging:1.6.11', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:2.2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.18.11', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.20.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-buffer:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec-base:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec-compression:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec-http:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-common:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-handler:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-resolver:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-epoll:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-kqueue:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.2.7.Final:linux-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.2.7.Final:linux-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-kqueue:4.2.7.Final:osx-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-kqueue:4.2.7.Final:osx-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-unix-common:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.5.18', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna-platform:5.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:5.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.28.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.25.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.25.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-slf4j2-impl:2.25.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jcraft:jorbis:0.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.joml:joml:1.10.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jspecify:jspecify:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.slf4j:slf4j-api:2.0.17', rules=null, natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='Fabric 1.21.11', time=Tue Dec 09 10:13:30 MSK 2025, release=Tue Dec 09 10:13:30 MSK 2025, type=modified, source=EXTRA_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@5696ef6d}, isInstalled=true, hasRemote=true, isUpToDate=true}
+do head request -> https://rescl.tlauncher.org/b/jvm/java_configuration.json RequestMetadata(lastModified=Thu, 08 Jan 2026 08:29:08 GMT, eTag=52d25e534fd70a88bb655e3b1df6a67d, sha1=0f47bc501bbc5009f34bdedb5a232d2ecce640fa, lastAccessAt=1774697773380) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_rescl.tlauncher.org\b\jvm\java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] shaderpacks:ComplementaryUnbound_r5.6.1.zip
+[Launcher] resourcepacks:aloVanilla_Edit_a16x8,Awesome Skies,FreshAnimations_v1.10.4.zip,Fullbright-UB-1.20.zip,FutureNeo-32x-1.21.zip,ItzRealMe overlay,lowfire,small pop,VanillaTweaks_r677737_MC1.21.x.zip
+[Launcher] SUCCESS Collect info completed!
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading from repository...
+do head request -> https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json RequestMetadata(lastModified=Wed, 18 Feb 2026 10:21:00 GMT, eTag=0x8DE6ED7697EE36A, sha1=1b885386133f1149d6e538def0cbea156b0bf0ff, lastAccessAt=1774724025562) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+error with url https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json
+do head request -> https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json RequestMetadata(lastModified=Wed, 18 Feb 2026 10:21:00 GMT, eTag=0x8DE6ED7697EE36A, sha1=1b885386133f1149d6e538def0cbea156b0bf0ff, lastAccessAt=1774724025562) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+skip request to server https://stat.fastrepo.org/
+skip request to server https://stat.fastrepo.org/
+[Double running] clear time label
+do get request https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+[JFXStartPageLoader]  succeeded load page: file:///C:/Users/rovik/AppData/Roaming/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs_v1/pages/index_ru.html during 41
+[Browser@1546753578] Loaded successfully: "file:///C:/Users/rovik/AppData/Roaming/.tlauncher/cache/https_repo.tlauncher.org/update/downloads/configs_v1/pages/index_ru.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+error with url https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json
+do head request -> https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json RequestMetadata(lastModified=Wed, 18 Feb 2026 10:21:00 GMT, eTag=0x8DE6ED7697EE36A, sha1=1b885386133f1149d6e538def0cbea156b0bf0ff, lastAccessAt=1774724025562) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+[Launcher] finished comparing assets: 36611 ms.
+[VersionManager] Required for version Fabric 1.21.11: []
+used default java runtime
+Minecraft requires java version: 21, java path: C:\Users\rovik\AppData\Roaming\.minecraft\runtime\java-runtime-delta\windows\java-runtime-delta\bin\javaw.exe
+library will be replaced: com.mojang:authlib:7.0.61 -> org.tlauncher:authlib:7.0.619
+library will be replaced: com.mojang:patchy:2.2.10 -> org.tlauncher:patchy:2.2.101
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+Add new world to backup list: Общество хата
+backup world: ден хант
+backup world finished: ден хант
+backup world: Общество хата
+backup world finished: Общество хата
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\rovik\AppData\Roaming\.minecraft\runtime\java-runtime-delta\windows\java-runtime-delta\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Djna.tmpdir=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Dio.netty.native.workdir=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.173 -cp C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.9\asm-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.9\asm-analysis-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.9\asm-commons-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.9\asm-tree-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.9\asm-util-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\fabricmc\sponge-mixin\0.16.5+mixin.0.8.7\sponge-mixin-0.16.5+mixin.0.8.7.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\fabricmc\intermediary\1.21.11\intermediary-1.21.11.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\fabricmc\fabric-loader\0.18.2\fabric-loader-0.18.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\at\yawk\lz4\lz4-java\1.8.1\lz4-java-1.8.1.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\azure\azure-json\1.4.0\azure-json-1.4.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\6.9.0\oshi-core-6.9.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\77.1\icu4j-77.1.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\microsoft\azure\msal4j\1.23.1\msal4j-1.23.1.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\7.0.619\authlib-7.0.619.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\9.0.19\datafixerupper-9.0.19.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.6.11\logging-1.6.11.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\2.2.101\patchy-2.2.101.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.18.11\text2speech-1.18.11.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.19.0\commons-codec-1.19.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.2.7.Final\netty-buffer-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec-base\4.2.7.Final\netty-codec-base-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec-compression\4.2.7.Final\netty-codec-compression-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec-http\4.2.7.Final\netty-codec-http-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.2.7.Final\netty-common-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.2.7.Final\netty-handler-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.2.7.Final\netty-resolver-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.2.7.Final\netty-transport-classes-epoll-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-kqueue\4.2.7.Final\netty-transport-classes-kqueue-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.2.7.Final\netty-transport-native-unix-common-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.2.7.Final\netty-transport-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.18\fastutil-8.5.18.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.17.0\jna-platform-5.17.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.19.0\commons-lang3-3.19.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.25.2\log4j-api-2.25.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.25.2\log4j-core-2.25.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.25.2\log4j-slf4j2-impl-2.25.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\Fabric 1.21.11.jar -DFabricMcEmu= net.minecraft.client.main.Main  -Xmx32632M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\rovik\AppData\Roaming\.minecraft -DlibraryDirectory=C:\Users\rovik\AppData\Roaming\.minecraft\libraries -Dcountry=RU -Dlog4j.configurationFile=C:\Users\rovik\AppData\Roaming\.minecraft\assets\log_configs\client-1.21.2.xml net.fabricmc.loader.impl.launch.knot.KnotClient --username TheRoviks --version Fabric 1.21.11 --gameDir C:\Users\rovik\AppData\Roaming\.minecraft --assetsDir C:\Users\rovik\AppData\Roaming\.minecraft\assets --assetIndex 29 --uuid 6895866703474b169fdfeebb386bd219 --accessToken null --clientId null --xuid null --versionType modified --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+mods after C:\Users\rovik\AppData\Roaming\.minecraft\mods\faster-placement-1.0.0.jar, C:\Users\rovik\AppData\Roaming\.minecraft\mods\tl_skin_cape_fabric_1.21.11-1.38.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=VimeMC.net, address=mc.vimemc.net:25565, ip=mc.vimemc.net, port=25565, hideAddress=false, acceptTextures=1), Server(name=BigCraft.pro, address=go.BigCraft.pro:25565, ip=go.BigCraft.pro, port=25565, hideAddress=false, acceptTextures=1), Server(name=DexLand.org, address=mc.dexland.org:25565, ip=mc.dexland.org, port=25565, hideAddress=false, acceptTextures=1), Server(name=SkyCave.pro, address=mc.skycave.pro:25565, ip=mc.skycave.pro, port=25565, hideAddress=false, acceptTextures=1), Server(name=МА�?НБЛЕЙЗ, address=mc.mineblaze.net:25565, ip=mc.mineblaze.net, port=25565, hideAddress=false, acceptTextures=0), Server(name=Сервер Minecraft, address=funtime.su, ip=funtime.su, port=null, hideAddress=false, acceptTextures=1), Server(name=Сервер Minecraft, address=mc.altherium.ru, ip=mc.altherium.ru, port=null, hideAddress=false, acceptTextures=1)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Game skin type: TLAUNCHER
+[Launcher] Starting Minecraft Fabric 1.21.11...
+[Launcher] Launching in: C:\Users\rovik\AppData\Roaming\.minecraft
+Starting garbage collector: 116 / 225 MB
+Garbage collector completed: 65 / 224 MB
+skip request to server https://stat.fastrepo.org/
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[21:10:23] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[21:10:24] [main/WARN]: Mod resolution failed
+[21:10:24] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE fasterplacement 1.0.0 {depends fabric-api @ [*]}, ROOT_FORCELOAD_SINGLE fasterplacement 1.0.0]
+[21:10:24] [main/INFO]: Reason: [HARD_DEP fasterplacement 1.0.0 {depends fabric-api @ [*]}]
+[21:10:24] [main/INFO]: Fix: add [add:fabric-api 1 ([(-∞,∞)])], remove [], replace []
+[21:10:24] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install fabric-api, any version.
+More details:
+	 - Mod 'Faster Placement' (fasterplacement) 1.0.0 requires any version of fabric-api, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51)
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:202)
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:142)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (20 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: 1
+Starting garbage collector: 79 / 224 MB
+Garbage collector completed: 65 / 224 MB
+flush now
+flush now
+[LoginForm] run process:
+AccountComboBox.validte pre game launch username Account{skinType=TLAUNCHER, displayName=TheRoviks, userid=6895866703474b169fdfeebb386bd219, uuid=6895866703474b169fdfeebb386bd219, username=TheRoviks} FREE
+onAuthPassed
+saved account Account{skinType=TLAUNCHER, displayName=TheRoviks, userid=6895866703474b169fdfeebb386bd219, uuid=6895866703474b169fdfeebb386bd219, username=TheRoviks}
+profiles is saved successfully
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.936
+[Launcher] Collecting info...
+before clearLibrary C:\Users\rovik\AppData\Roaming\.minecraft\mods\fabric-api-0.141.3+1.21.11.jar, C:\Users\rovik\AppData\Roaming\.minecraft\mods\faster-placement-1.0.0.jar, C:\Users\rovik\AppData\Roaming\.minecraft\mods\tl_skin_cape_fabric_1.21.11-1.38.jar
+written:  []
+after clearLibrary C:\Users\rovik\AppData\Roaming\.minecraft\mods\fabric-api-0.141.3+1.21.11.jar, C:\Users\rovik\AppData\Roaming\.minecraft\mods\faster-placement-1.0.0.jar
+[Launcher] Force update: false
+[Launcher] Selected version: Fabric 1.21.11
+[Launcher] Selected account: Account{skinType=TLAUNCHER, displayName=TheRoviks, userid=6895866703474b169fdfeebb386bd219, uuid=6895866703474b169fdfeebb386bd219, username=TheRoviks}
+[Launcher] Version sync info: VersionSyncInfo{id='Fabric 1.21.11',
+local=CompleteVersion{id='Fabric 1.21.11', time=Tue Dec 09 10:13:30 MSK 2025, release=Tue Dec 09 12:23:30 MSK 2025, type=modified, class=net.fabricmc.loader.impl.launch.knot.KnotClient, minimumVersion=21, assets='29', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@5696ef6d, libraries=[Library{name='org.ow2.asm:asm:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-analysis:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-commons:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-tree:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-util:9.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.fabricmc:intermediary:1.21.11', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.fabricmc:fabric-loader:0.18.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='at.yawk.lz4:lz4-java:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.azure:azure-json:1.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.github.oshi:oshi-core:6.9.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.13.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:failureaccess:1.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:33.5.0-jre', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:77.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.microsoft.azure:msal4j:1.23.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:7.0.61', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:blocklist:1.0.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.3.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:9.0.19', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:jtracy:1.0.37:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.mojang:logging:1.6.11', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:2.2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.18.11', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.20.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-buffer:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec-base:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec-compression:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec-http:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-common:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-handler:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-resolver:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-epoll:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-kqueue:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.2.7.Final:linux-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.2.7.Final:linux-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-kqueue:4.2.7.Final:osx-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-kqueue:4.2.7.Final:osx-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-unix-common:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport:4.2.7.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.5.18', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna-platform:5.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:5.17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.28.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.25.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.25.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-slf4j2-impl:2.25.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jcraft:jorbis:0.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.joml:joml:1.10.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jspecify:jspecify:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.3:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.slf4j:slf4j-api:2.0.17', rules=null, natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='Fabric 1.21.11', time=Tue Dec 09 10:13:30 MSK 2025, release=Tue Dec 09 10:13:30 MSK 2025, type=modified, source=EXTRA_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@5696ef6d}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[Launcher] Checking conditions...
+[Launcher] shaderpacks:ComplementaryUnbound_r5.6.1.zip
+[Launcher] resourcepacks:aloVanilla_Edit_a16x8,Awesome Skies,FreshAnimations_v1.10.4.zip,Fullbright-UB-1.20.zip,FutureNeo-32x-1.21.zip,ItzRealMe overlay,lowfire,small pop,VanillaTweaks_r677737_MC1.21.x.zip
+[Launcher] SUCCESS Collect info completed!
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading from repository...
+do head request -> https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json RequestMetadata(lastModified=Wed, 18 Feb 2026 10:21:00 GMT, eTag=0x8DE6ED7697EE36A, sha1=1b885386133f1149d6e538def0cbea156b0bf0ff, lastAccessAt=1774807811047) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+error with url https://resource.tlauncher.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json
+do head request -> https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json RequestMetadata(lastModified=Wed, 18 Feb 2026 10:21:00 GMT, eTag=0x8DE6ED7697EE36A, sha1=1b885386133f1149d6e538def0cbea156b0bf0ff, lastAccessAt=1774807811047) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+do get request https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json, saved to C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+error with url https://resource.fastrepo.org/file?link=https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json
+do head request -> https://piston-meta.mojang.com/v1/packages/1b885386133f1149d6e538def0cbea156b0bf0ff/29.json RequestMetadata(lastModified=Wed, 18 Feb 2026 10:21:00 GMT, eTag=0x8DE6ED7697EE36A, sha1=1b885386133f1149d6e538def0cbea156b0bf0ff, lastAccessAt=1774807811047) local file C:\Users\rovik\AppData\Roaming\.tlauncher\cache\https_piston-meta.mojang.com\v1\packages\1b885386133f1149d6e538def0cbea156b0bf0ff\29.json
+[Launcher] finished comparing assets: 33701 ms.
+[VersionManager] Required for version Fabric 1.21.11: []
+used default java runtime
+Minecraft requires java version: 21, java path: C:\Users\rovik\AppData\Roaming\.minecraft\runtime\java-runtime-delta\windows\java-runtime-delta\bin\javaw.exe
+library will be replaced: com.mojang:authlib:7.0.61 -> org.tlauncher:authlib:7.0.619
+library will be replaced: com.mojang:patchy:2.2.10 -> org.tlauncher:patchy:2.2.101
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\rovik\AppData\Roaming\.minecraft\runtime\java-runtime-delta\windows\java-runtime-delta\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Djna.tmpdir=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Dio.netty.native.workdir=C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.173 -cp C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.9\asm-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.9\asm-analysis-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.9\asm-commons-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.9\asm-tree-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.9\asm-util-9.9.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\fabricmc\sponge-mixin\0.16.5+mixin.0.8.7\sponge-mixin-0.16.5+mixin.0.8.7.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\fabricmc\intermediary\1.21.11\intermediary-1.21.11.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\fabricmc\fabric-loader\0.18.2\fabric-loader-0.18.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\at\yawk\lz4\lz4-java\1.8.1\lz4-java-1.8.1.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\azure\azure-json\1.4.0\azure-json-1.4.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\6.9.0\oshi-core-6.9.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\77.1\icu4j-77.1.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\microsoft\azure\msal4j\1.23.1\msal4j-1.23.1.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\7.0.619\authlib-7.0.619.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\9.0.19\datafixerupper-9.0.19.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.6.11\logging-1.6.11.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\2.2.101\patchy-2.2.101.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.18.11\text2speech-1.18.11.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.19.0\commons-codec-1.19.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.2.7.Final\netty-buffer-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec-base\4.2.7.Final\netty-codec-base-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec-compression\4.2.7.Final\netty-codec-compression-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec-http\4.2.7.Final\netty-codec-http-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.2.7.Final\netty-common-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.2.7.Final\netty-handler-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.2.7.Final\netty-resolver-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.2.7.Final\netty-transport-classes-epoll-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-kqueue\4.2.7.Final\netty-transport-classes-kqueue-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.2.7.Final\netty-transport-native-unix-common-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.2.7.Final\netty-transport-4.2.7.Final.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.18\fastutil-8.5.18.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.17.0\jna-platform-5.17.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.19.0\commons-lang3-3.19.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.25.2\log4j-api-2.25.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.25.2\log4j-core-2.25.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.25.2\log4j-slf4j2-impl-2.25.2.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;C:\Users\rovik\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;C:\Users\rovik\AppData\Roaming\.minecraft\versions\Fabric 1.21.11\Fabric 1.21.11.jar -DFabricMcEmu= net.minecraft.client.main.Main  -Xmx32632M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\rovik\AppData\Roaming\.minecraft -DlibraryDirectory=C:\Users\rovik\AppData\Roaming\.minecraft\libraries -Dcountry=RU -Dlog4j.configurationFile=C:\Users\rovik\AppData\Roaming\.minecraft\assets\log_configs\client-1.21.2.xml net.fabricmc.loader.impl.launch.knot.KnotClient --username TheRoviks --version Fabric 1.21.11 --gameDir C:\Users\rovik\AppData\Roaming\.minecraft --assetsDir C:\Users\rovik\AppData\Roaming\.minecraft\assets --assetIndex 29 --uuid 6895866703474b169fdfeebb386bd219 --accessToken null --clientId null --xuid null --versionType modified --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+mods after C:\Users\rovik\AppData\Roaming\.minecraft\mods\fabric-api-0.141.3+1.21.11.jar, C:\Users\rovik\AppData\Roaming\.minecraft\mods\faster-placement-1.0.0.jar, C:\Users\rovik\AppData\Roaming\.minecraft\mods\tl_skin_cape_fabric_1.21.11-1.38.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=MusteryWorld.net, address=mc.musteryworld.net:25565, ip=mc.musteryworld.net, port=25565, hideAddress=true, acceptTextures=1), Server(name=VimeMC.net, address=mc.vimemc.net:25565, ip=mc.vimemc.net, port=25565, hideAddress=false, acceptTextures=1), Server(name=BigCraft.pro, address=go.BigCraft.pro:25565, ip=go.BigCraft.pro, port=25565, hideAddress=false, acceptTextures=1), Server(name=DexLand.org, address=mc.dexland.org:25565, ip=mc.dexland.org, port=25565, hideAddress=false, acceptTextures=1), Server(name=SkyCave.pro, address=mc.skycave.pro:25565, ip=mc.skycave.pro, port=25565, hideAddress=false, acceptTextures=1), Server(name=МА�?НБЛЕЙЗ, address=mc.mineblaze.net:25565, ip=mc.mineblaze.net, port=25565, hideAddress=false, acceptTextures=0), Server(name=Сервер Minecraft, address=funtime.su, ip=funtime.su, port=null, hideAddress=false, acceptTextures=1), Server(name=Сервер Minecraft, address=mc.altherium.ru, ip=mc.altherium.ru, port=null, hideAddress=false, acceptTextures=1)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Game skin type: TLAUNCHER
+[Launcher] Starting Minecraft Fabric 1.21.11...
+[Launcher] Launching in: C:\Users\rovik\AppData\Roaming\.minecraft
+Starting garbage collector: 170 / 224 MB
+Garbage collector completed: 67 / 224 MB
+skip request to server https://stat.fastrepo.org/
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[21:11:27] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[21:11:27] [main/INFO]: Loading 50 mods:
+	- fabric-api 0.141.3+1.21.11
+	   |-- fabric-api-base 1.0.5+4ebb5c083e
+	   |-- fabric-api-lookup-api-v1 1.6.114+20dc27073e
+	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
+	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
+	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
+	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
+	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
+	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
+	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
+	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
+	   |-- fabric-data-attachment-api-v1 1.8.47+eed0806f3e
+	   |-- fabric-data-generation-api-v1 23.4.0+69974c4e3e
+	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
+	   |-- fabric-entity-events-v1 3.1.1+1d0ab4303e
+	   |-- fabric-events-interaction-v0 4.1.0+3b89ecf63e
+	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
+	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
+	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
+	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
+	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
+	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
+	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
+	   |-- fabric-model-loading-api-v1 6.0.15+4fc5413f3e
+	   |-- fabric-networking-api-v1 5.1.5+ae1e07683e
+	   |-- fabric-object-builder-api-v1 21.1.39+4fc5413f3e
+	   |-- fabric-particles-v1 4.2.11+4fc5413f3e
+	   |-- fabric-recipe-api-v1 8.2.3+4ebb5c083e
+	   |-- fabric-registry-sync-v0 6.2.5+1718722b3e
+	   |-- fabric-renderer-api-v1 8.0.3+f4ffd2e53e
+	   |-- fabric-renderer-indigo 5.0.3+f4ffd2e53e
+	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
+	   |-- fabric-rendering-v1 16.2.10+0290ad933e
+	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
+	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
+	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
+	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
+	   |-- fabric-screen-handler-api-v1 1.3.161+4fc5413f3e
+	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
+	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
+	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
+	   |-- fabric-transfer-api-v1 6.0.25+4fc5413f3e
+	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- fasterplacement 1.0.0
+	- java 21
+	- minecraft 1.21.11
+	- tlskincape 1.38
+[21:11:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/rovik/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[21:11:31] [main/INFO]: Compatibility level set to JAVA_21
+[21:11:31] [main/WARN]: Reference map 'fasterplacement-refmap.json' for fasterplacement.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:11:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:11:34] [Datafixer Bootstrap/INFO]: 287 Datafixer optimizations took 545 milliseconds
+[21:11:40] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:11:40] [Render thread/INFO]: Setting user: TheRoviks
+[21:11:41] [Render thread/INFO]: [Indigo] Registering Indigo renderer!
+[21:11:41] [Render thread/INFO]: Faster Placement initialized
+[21:11:41] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[21:11:42] [Render thread/ERROR]: Mixin apply for mod fasterplacement failed fasterplacement.mixins.json:MouseMixin from mod fasterplacement -> net.minecraft.class_312: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Invalid descriptor on fasterplacement.mixins.json:MouseMixin from mod fasterplacement->@Inject::fasterplacement$onMouseButton(JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V! Expected (JLnet/minecraft/class_11910;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V but found (JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V [INJECT_APPLY Applicator Phase -> fasterplacement.mixins.json:MouseMixin from mod fasterplacement -> Apply Injections ->  -> Inject -> fasterplacement.mixins.json:MouseMixin from mod fasterplacement->@Inject::fasterplacement$onMouseButton(JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Invalid descriptor on fasterplacement.mixins.json:MouseMixin from mod fasterplacement->@Inject::fasterplacement$onMouseButton(JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V! Expected (JLnet/minecraft/class_11910;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V but found (JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V [INJECT_APPLY Applicator Phase -> fasterplacement.mixins.json:MouseMixin from mod fasterplacement -> Apply Injections ->  -> Inject -> fasterplacement.mixins.json:MouseMixin from mod fasterplacement->@Inject::fasterplacement$onMouseButton(JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:560)
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:490)
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:284)
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.inject(InjectionInfo.java:508)
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1483)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:752)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:330)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246)
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437)
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418)
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352)
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237)
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at knot//net.minecraft.class_310.<init>(class_310.java:527)
+	at knot//net.minecraft.client.main.Main.main(Main.java:234)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+
+[21:11:42] [Render thread/WARN]: Failed to get system info for Render Extensions
+java.lang.IllegalStateException: Can't getDevice() before it was initialized
+	at knot//com.mojang.blaze3d.systems.RenderSystem.getDevice(RenderSystem.java:299)
+	at knot//net.minecraft.class_310.method_68671(class_310.java:2527)
+	at knot//net.minecraft.class_6396.method_37123(class_6396.java:78)
+	at knot//net.minecraft.class_310.method_37274(class_310.java:2527)
+	at knot//net.minecraft.class_310.method_22681(class_310.java:2497)
+	at knot//net.minecraft.client.main.Main.main(Main.java:243)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 2026-03-29 21:11:42
+Description: Initializing game
+
+java.lang.RuntimeException: Mixin transformation of net.minecraft.class_312 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:440)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at knot//net.minecraft.class_310.<init>(class_310.java:527)
+	at knot//net.minecraft.client.main.Main.main(Main.java:234)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:381)
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237)
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435)
+	... 9 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [fasterplacement.mixins.json:MouseMixin from mod fasterplacement] from phase [DEFAULT] in config [fasterplacement.mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:686)
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:637)
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:368)
+	... 12 more
+Caused by: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Invalid descriptor on fasterplacement.mixins.json:MouseMixin from mod fasterplacement->@Inject::fasterplacement$onMouseButton(JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V! Expected (JLnet/minecraft/class_11910;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V but found (JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V [INJECT_APPLY Applicator Phase -> fasterplacement.mixins.json:MouseMixin from mod fasterplacement -> Apply Injections ->  -> Inject -> fasterplacement.mixins.json:MouseMixin from mod fasterplacement->@Inject::fasterplacement$onMouseButton(JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:560)
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:490)
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:284)
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.inject(InjectionInfo.java:508)
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1483)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:752)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:330)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246)
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437)
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418)
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352)
+	... 12 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:440)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at knot//net.minecraft.class_310.<init>(class_310.java:527)
+
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:����������� ���������� API Windows 32:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		COMCTL32.dll:���������� ��������� ���������� �������������� � �������������:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:API32 ������������:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.26100.7623 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.26100.1150 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:������������ ���������� API DNS-�������:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		DPAPI.DLL:Data Protection API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+		GDI32.dll:GDI Client DLL:10.0.26100.8036 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:���������� ����������� OpenGL:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.26100.7309 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:API ���������������� ���������� IP:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		KERNEL32.DLL:���������� ������� Windows NT BASE API:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:���������� ������� Windows NT BASE API:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:��������� ���������� MSCTF:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		NTASN1.dll:Microsoft ASN.1 API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+		OLEAUT32.dll:OLEAUT32.DLL:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:Microsoft OLE ��� Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		POWRPROF.dll:DLL ������ ��������� ������� ���������� ��������:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		PSAPI.DLL:Process Status Helper:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:������ ��������� ������ ������������������ Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		RPCRT4.dll:���������� ���������� ������ ��������:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		SETUPAPI.dll:Windows Setup API:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:����� ���������� �������� Windows:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		SSPICLI.DLL:Security Support Provider Interface:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		Secur32.dll:Security Support Provider Interface:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		UMPDC.dll:User Mode Power Dependency Coordinator:10.0.26100.7019 (WinBuild.160101.0800):Microsoft Corporation
+		USER32.dll:��������������������� ���������� ������� USER API Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft� C Runtime Library:14.38.33135.0:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.26100.1150 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:������ HTTP Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API DLL:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		WINSTA.dll:Winstation Library:10.0.26100.8036 (WinBuild.160101.0800):Microsoft Corporation
+		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.26100.8036 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:32-��������� ���������� Windows Socket 2.0:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		amsi.dll:Anti-Malware Scan Interface:10.0.26100.7309 (WinBuild.160101.0800):Microsoft Corporation
+		bcrypt.dll:���������� ����������������� ���������� Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.26100.7623 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.26100.7309 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		com_antivirus.dll:Kaspersky ComAntivirus Component:21.24.8.416:AO Kaspersky Lab
+		combase.dll:Microsoft COM ��� Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		cryptnet.dll:Crypto Network Related API:10.0.26100.7309 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		drvstore.dll:Driver Store API:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:��������� API ���������� ���� �������� ����� (����������):10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		extnet.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		fwpuclnt.dll:API ����������������� ������ FWP/IPsec:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.26100.8036 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll:GLFW 3.4.0 DLL:3.4.0:GLFW
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.26100.2314 (WinBuild.160101.0800):Microsoft Corporation
+		imagehlp.dll:Windows NT Image Helper:10.0.26100.4202 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		java.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		javaw.exe:OpenJDK Platform binary:21.0.7.0:Microsoft
+		jemalloc.dll
+		jimage.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		jli.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		jna17184079282806347471.dll:JNA native library:7.0.2:Java(TM) Native Access (JNA)
+		jsvml.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		jvm.dll:OpenJDK 64-Bit server VM:21.0.7.0:Microsoft
+		kernel.appcore.dll:AppModel API Host:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		lwjgl.dll
+		lwjgl_stb.dll
+		management.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		management_ext.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		msasn1.dll:ASN.1 Runtime APIs:10.0.26100.7623 (WinBuild.160101.0800):Microsoft Corporation
+		mscms.dll:DLL-���������� ������� ������������� ������ ����������:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft� C Runtime Library:14.38.33135.0:Microsoft Corporation
+		msvcp_win.dll:Microsoft� C Runtime Library:10.0.26100.7623 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.26100.7623 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:���������� ���������� ������ API Microsoft Windows Sockets 2.0:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:��������� �������� ������������� ��� ���� ����������� �����:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		ncrypt.dll:������������� Windows NCrypt:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		nio.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		nlansp_c.dll:NLA Namespace Service Provider DLL:10.0.26100.7309 (WinBuild.160101.0800):Microsoft Corporation
+		ntdll.dll:��������� ���������� NT:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:��������� Windows NT MARTA:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		nvgpucomp64.dll:NVIDIA GPU Compiler Driver, Version 591.59 :32.0.15.9159:NVIDIA Corporation
+		nvoglv64.dll:NVIDIA Compatible OpenGL ICD:32.0.15.9159:NVIDIA Corporation
+		nvspcap64.dll:NVIDIA Game Proxy 8FileVersion  1:11.0.5.420  8Produc:NVIDIA Corporation  L$FileDescriptio
+		opengl32.dll:OpenGL Client DLL:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:���������� �������� ������������������ ������� Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		pfclient.dll:SysMain Client:10.0.26100.4202 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.26100.7309 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+		shlwapi.dll:���������� ��������� �������� ��������:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		sunmscapi.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft� C Runtime Library:10.0.26100.7623 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:���������� ��� UxTheme (Microsoft):10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		vcruntime140_1.dll:Microsoft� C Runtime Library:14.38.33135.0:Microsoft Corporation
+		verify.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+		win32u.dll:Win32u:10.0.26100.8036 (WinBuild.160101.0800):Microsoft Corporation
+		windows.staterepositorycore.dll:Windows StateRepository API Core:10.0.26100.7920 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:API �������� Microsoft WinRT:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.26100.1882 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:���������� DLL �������� ����� Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		wldp.dll:�������� ���������� Windows:10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:API ������ ����������� (����������):10.0.26100.7705 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:OpenJDK Platform binary:21.0.7.0:Microsoft
+Stacktrace:
+	at knot//net.minecraft.client.main.Main.main(Main.java:234)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.11
+	Minecraft Version ID: 1.21.11
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 551895096 bytes (526 MiB) / 805306368 bytes (768 MiB) up to 34225520640 bytes (32640 MiB)
+	CPUs: 12
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 5 5600G with Radeon Graphics         
+	Identifier: AuthenticAMD Family 25 Model 80 Stepping 0
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.89
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: NVIDIA GeForce RTX 4060
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 8188.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.15.9159
+	Graphics card #1 name: AMD Radeon(TM) Graphics
+	Graphics card #1 vendor: Advanced Micro Devices, Inc.
+	Graphics card #1 VRAM (MiB): 512.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 31.0.12002.92
+	Memory slot #0 capacity (MiB): 16384.00
+	Memory slot #0 clockSpeed (GHz): 2.13
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 16384.00
+	Memory slot #1 clockSpeed (GHz): 2.13
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 46459.99
+	Virtual memory used (MiB): 23693.30
+	Swap memory total (MiB): 13824.00
+	Swap memory used (MiB): 66.86
+	Space in storage for jna.tmpdir (MiB): available: 9615.71, total: 201503.00
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 9615.71, total: 201503.00
+	Space in storage for io.netty.native.workdir (MiB): available: 9615.71, total: 201503.00
+	Space in storage for java.io.tmpdir (MiB): available: 9615.71, total: 201503.00
+	Space in storage for workdir (MiB): available: 9615.71, total: 201503.00
+	JVM Flags: 9 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx32632M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	Debug Flags: 0 total; 
+	Fabric Mods: 
+		fabric-api: Fabric API 0.141.3+1.21.11
+			fabric-api-base: Fabric API Base 1.0.5+4ebb5c083e
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.114+20dc27073e
+			fabric-biome-api-v1: Fabric Biome API (v1) 17.1.1+4fc5413f3e
+			fabric-block-api-v1: Fabric Block API (v1) 1.1.10+4ebb5c083e
+			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.39+4ebb5c083e
+			fabric-command-api-v2: Fabric Command API (v2) 2.4.7+6b42a6003e
+			fabric-content-registries-v0: Fabric Content Registries (v0) 10.2.14+4fc5413f3e
+			fabric-convention-tags-v1: Fabric Convention Tags 2.1.55+7f945d5b3e
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 2.17.3+8ef948ba3e
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.3.23+4ebb5c083e
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.8.47+eed0806f3e
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 23.4.0+69974c4e3e
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 4.0.28+4fc5413f3e
+			fabric-entity-events-v1: Fabric Entity Events (v1) 3.1.1+1d0ab4303e
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 4.1.0+3b89ecf63e
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 2.0.3+4fc5413f3e
+			fabric-item-api-v1: Fabric Item API (v1) 11.5.20+d0c46b9e3e
+			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.2.36+4fc5413f3e
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.1.7+4fc5413f3e
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.6.15+4ebb5c083e
+			fabric-loot-api-v2: Fabric Loot API (v2) 3.0.73+3f89f5a53e
+			fabric-loot-api-v3: Fabric Loot API (v3) 2.0.20+78c8b4663e
+			fabric-message-api-v1: Fabric Message API (v1) 6.1.12+4ebb5c083e
+			fabric-model-loading-api-v1: Fabric Model Loading API (v1) 6.0.15+4fc5413f3e
+			fabric-networking-api-v1: Fabric Networking API (v1) 5.1.5+ae1e07683e
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 21.1.39+4fc5413f3e
+			fabric-particles-v1: Fabric Particles (v1) 4.2.11+4fc5413f3e
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 8.2.3+4ebb5c083e
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 6.2.5+1718722b3e
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 8.0.3+f4ffd2e53e
+			fabric-renderer-indigo: Fabric Renderer - Indigo 5.0.3+f4ffd2e53e
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.43+4ebb5c083e
+			fabric-rendering-v1: Fabric Rendering (v1) 16.2.10+0290ad933e
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 5.0.35+4fc5413f3e
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 3.3.4+4fc5413f3e
+			fabric-resource-loader-v1: Fabric Resource Loader (v1) 1.0.10+78c8b4663e
+			fabric-screen-api-v1: Fabric Screen API (v1) 3.1.7+4ebb5c083e
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.161+4fc5413f3e
+			fabric-serialization-api-v1: Fabric Serialization API (v1) 1.0.5+4ebb5c083e
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.51+4fc5413f3e
+			fabric-tag-api-v1: Fabric Tag API (v1) 1.2.20+4fc5413f3e
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 6.0.25+4fc5413f3e
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 7.1.0+014c8cec3e
+		fabricloader: Fabric Loader 0.18.2
+			mixinextras: MixinExtras 0.5.0
+		fasterplacement: Faster Placement 1.0.0
+		java: OpenJDK 64-Bit Server VM 21
+		minecraft: Minecraft 1.21.11
+		tlskincape: TLSkinCape 1.38
+	Launched Version: Fabric 1.21.11
+	Launcher name: minecraft-launcher
+	Backend library: LWJGL version 3.3.3-snapshot
+	Backend API: Unknown
+	Window size: <not initialized>
+	GFLW Platform: win32
+	Render Extensions: ERR
+	GL debug messages: <no renderer available>
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Universe: 404
+	Type: Client (map_client.txt)
+	Locale: ru_RU
+	System encoding: Cp1251
+	File encoding: UTF-8
+	CPU: 12x AMD Ryzen 5 5600G with Radeon Graphics 
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\rovik\AppData\Roaming\.minecraft\crash-reports\crash-2026-03-29_21.11.42-client.txt
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (23 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: -1
+Starting garbage collector: 81 / 224 MB
+Garbage collector completed: 67 / 224 MB
+flush now
+[Launcher] [Crash] Found crash report file: C:\Users\rovik\AppData\Roaming\.minecraft\crash-reports\crash-2026-03-29_21.11.42-client.txt
+[Crash] Found crash report file: C:\Users\rovik\AppData\Roaming\.minecraft\crash-reports\crash-2026-03-29_21.11.42-client.txt
+flush now
+flush now
